@@ -1,0 +1,21 @@
+//
+//  HomeModel.h
+//  LingTouNiaoZF
+//
+//  Created by LiuFeifei on 16/12/6.
+//  Copyright © 2016年 LiuJie. All rights reserved.
+//
+
+#import "BaseModel.h"
+
+//#import "SortModel.h"
+
+@interface HomeModel : BaseModel
+
+@property (nonatomic, strong) NSArray * sortList;
+@property (nonatomic, strong) NSArray * bannerList;
+@property (nonatomic, strong) NSArray * activityList;
+@property (nonatomic, strong) NSArray * recommendList;
+@property (nonatomic, strong) NSArray * apartmentList;
+
+@end

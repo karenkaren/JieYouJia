@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7e96c76e-8fb2-784f-8092-275f709c6c5e++5358",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7e96c76e-8fb2-784f-8092-275f709c6c5e++5358" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "ios_jyj\/branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "ios_jyj\/tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "ios_jyj\/trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7e96c76e-8fb2-784f-8092-275f709c6c5e++5358" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0914CE9E-E681-4689-A559-EDC261C12A9C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7e96c76e-8fb2-784f-8092-275f709c6c5e++5358" : "1.0.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LingTouNiaoZF",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LingTouNiaoZF\/LingTouNiaoZF.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.18.23:8443\/svn\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7e96c76e-8fb2-784f-8092-275f709c6c5e++5358"
+    }
+  ]
+}
